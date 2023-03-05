@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\automated-testing",
+    "\\front-end"
   ],
+  "SelectedNode": "\\automated-testing\\asynchronous-code.test.js",
   "PreviewInSolutionExplorer": false
 }

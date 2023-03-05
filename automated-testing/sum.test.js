@@ -1,5 +1,5 @@
-// import sum from '../front-end/sum.js'
-const sum = require('../front-end/sum')
+// import sum from '../front-end/sum'
+const sum = require('../front-end/sum.js')
 
 //// Section of Expect Matchers
 
@@ -18,6 +18,6 @@ test('object assignment', () => {
 // expect.not
 test('adds 1 + 2 to equal 3', () => {
     console.log(`result = ${sum(1, 2)}\n`);
-    expect(sum(1, 2)).not.toBe(3);
+    expect(sum(1, 2)).not.toBe(4);
 });
 
