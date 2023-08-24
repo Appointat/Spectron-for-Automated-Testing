@@ -21,6 +21,6 @@
     "electron": "^26.0.0"
   },
   "dependencies": {
-    "jest": "^29.6.3"
+    "jest": "^29.6.4"
   }
 }
